@@ -27,7 +27,11 @@ cd task
 python3 test.py => menjalankan testing otomatis
 
 http://127.0.0.1:8000/api/token/ => membuat token
+
 http://127.0.0.1:8000/profil/api/ => GET
+
 http://127.0.0.1:8000/profil/api/<str:pk> => PUT,DELETE
+
 http://127.0.0.1:8000/customer/api/ => GET
+
 http://127.0.0.1:8000/customer/api/<str:pk> => PUT,DELETE
