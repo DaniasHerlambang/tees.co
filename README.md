@@ -1,5 +1,5 @@
-python3 -m venv tees => membuat environment
-cd tees
+>python3 -m venv tees => membuat environment
+>cd tees
 source /bin/activate
 pip install django
 django-admin startproject task / copy folder task ke dalam environment
