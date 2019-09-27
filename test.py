@@ -9,7 +9,6 @@ django.setup()
 from profil.models import *
 from customer.models import *
 
-# input setoran
 import requests
 
 TOKEN = []
